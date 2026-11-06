@@ -1,0 +1,11 @@
+PETMATCH-LAB
+
+Esta carpeta contiene toda la estructura y los archivos de la lista solicitada.
+Los archivos Java y HTML tienen comentarios iniciales para que agregues el código del laboratorio.
+
+IMPORTANTE SOBRE MAVEN WRAPPER:
+mvnw y mvnw.cmd son archivos iniciales de referencia. Para generar el wrapper completo
+(incluido el archivo ejecutable del wrapper), abre una terminal en esta carpeta y ejecuta:
+    mvn wrapper:wrapper
+
+Se requiere Maven instalado para ejecutar ese comando. El proyecto está configurado para Java 21.
